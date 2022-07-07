@@ -1,0 +1,10 @@
+{
+  "arrowParens": "always",
+  "semi": false,
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "quoteProps": "consistent",
+  "printWidth": 80,
+  "singleAttributePerLine": true,
+  "spaceBeforeFunctionParen": true
+}
